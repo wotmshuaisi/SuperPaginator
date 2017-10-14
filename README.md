@@ -1,6 +1,7 @@
 # SuperPaginator
 
 [![forthebadge](http://forthebadge.com/images/badges/built-by-codebabes.svg)](http://forthebadge.com)  
+
 It's easy to used django-paginator to paging some data row,  
 but still trouble，need to write some `template language`,  
 judgment page count and many more...  
