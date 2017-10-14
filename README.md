@@ -2,18 +2,13 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-by-codebabes.svg)](http://forthebadge.com)  
 
-It's easy to used django-paginator to paging some data row,  
-but still trouble，need to write some `template language`,  
-judgment page count and many more...  
-Use that plugin can auto create `bootscrap paging code`, `paged queryset data` and  
-`request parameter persistence`.  
-This plugin maybe written suck, but it's working for me,  
-hope it can work for you.
+It's easy to used django-paginator to paging some data row, but still trouble，need to write some `template language`, judgment page count and many more...  
+Use that plugin can auto create `bootscrap paging code`, `paged queryset data` and `request parameter persistence`.  
+This plugin maybe written suck, but it's working for me, hope it can work for you.
 
 # Getting Started
 
-Usually i move SuperPaginator into my Django `utils` document,  
-to import SuperPaginator you have to create a `__init__.py` file into `utils`.
+Usually i move SuperPaginator into my Django `utils` document, to import SuperPaginator you have to create a `__init__.py` file into `utils`.
 
 ## How to use
 
